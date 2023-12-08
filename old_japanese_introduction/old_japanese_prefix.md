@@ -4,7 +4,7 @@
 ### "ta"(手)
 
 
-「手」/te/ (1. hand 2. person)の被覆形/ta/. 名詞の他に用言に接頭する. ONCOJ(Oxford NINJAL Corpus of Old Japanese)では機能がよくわからないとされている. 以下に用言につく用例を示す. 
+「手」/te/ (1. hand 2. person)の被覆形/ta/. 名詞の他に用言に接頭する. ONCOJ(Oxford NINJAL Corpus of Old Japanese)では機能がよくわからないとされている. "手を使って, 手によって"みたいな意味？以下に用言につく用例を示す. 
 
 - 動詞
   * ta-motopor 「手-廻る」 <br> 四段動詞. 意味 go back and forth. motopor「廻る」go backがまず馴染みない.  万葉集に12件と最も多い. 
@@ -31,8 +31,18 @@
 
   * ta-wasure 「手-忘れる」
 上二段動詞. 万葉集に1件. 
-    * >万392.
+    * >万392.   
+      >烏珠之 nubatama no  
+      >其夜乃梅乎 sono yö _no_ ume _wo_  
+      >手忘而 *ta*wasurete  
+      >不折来家里 worazu kini këri  
+      >思之物乎 omopo*si* mono  _wo_  
 
+      折るのを忘れたってことを指している?
+    
+
+     
+    
 
   * ta-mukap 「手-向かう」
 日本書紀に1件
@@ -60,6 +70,7 @@
     * tawaya-gapina 「手弱-腕」<br> 意味 weak arm. 参考 kapina「腕」upper arm. 古事記に1件
       * >古27.
     * tawaya-më 「手弱-女」<br> 意味 weak woman. MJ tawoyame 「たをやめ」? 万葉集に11件. 
+
 
 
 
